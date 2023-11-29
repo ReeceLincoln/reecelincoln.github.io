@@ -39,6 +39,7 @@
 **2019**
 -	R.L. Lincoln, F. Scarpa, V.P. Ting, R.S. Trask, Multifunctional composites: a metamaterial perspective, Multifunctional Materials, 2:043001, 2019, DOI: [10.1088/2399-7532/ab5242](https://doi.org/10.1088/2399-7532/ab5242)
 
-### Personal projects
+[comment]: # (### Personal projects)
+
 
 
