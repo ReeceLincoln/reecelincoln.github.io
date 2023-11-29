@@ -22,7 +22,7 @@
 - [PhD Thesis](https://research-information.bris.ac.uk/ws/portalfiles/portal/366373044/Reece_Lincoln_PhD_Corrections_Added.pdf)
 -	R.L. Lincoln et al., Probing the stability landscape of thin-walled composite cylinders, 7 Sept 2022, In 16th International Conference on Advances in Experimental Mechanics, 6–8 Sept 2022
 -	R.L. Lincoln, E. Zympeloudis, P.M. Weaver, A. Pirrera, R.M.J. Groh, Space Research Showcase, Fibre steering for lightweight and cost-efficient space structures, 28 June 2022 
--	C. J. McInnes, R.L. Lincoln, A. Pirrera, B.C. Kim and R.M.J. Groh, On the Finite Element Discretization of Continuous Tow Sheared Structures, 7 Jan 2022, In AIAA SciTech 2022 Forum, January 3-7, 2022, DOI: 10.2514/6.2022-2598
+-	C. J. McInnes, R.L. Lincoln, A. Pirrera, B.C. Kim and R.M.J. Groh, On the Finite Element Discretization of Continuous Tow Sheared Structures, 7 Jan 2022, In AIAA SciTech 2022 Forum, January 3-7, 2022, DOI: [10.2514/6.2022-2598](https://doi.org/10.2514/6.2022-2598)
 -	R.L. Lincoln, P.M. Weaver, A. Pirrera, R.M.J. Groh, Manufacture and buckling test of a variable-stiffness, variable-thickness composite cylinder under axial compression, 4  Jan 2022, In AIAA SciTech 2022 Forum, January 3-7, 2022, DOI: [10.2514/6.2022-0664](https://doi.org/10.2514/6.2022-0664)
 
 **2021**
