@@ -1,1 +1,14 @@
-# reecelincoln.github.io
+# Data scientist
+
+### Work
+
+
+### Education
+
+
+### Publications
+
+
+### Personal projects
+
+
